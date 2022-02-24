@@ -3,4 +3,9 @@ body{
     color: blueviolet;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: rgb(240, 205, 205);
+    
+}
+#lista{
+    background-color: lightblue;
+    border: 1px solid black;
 }
