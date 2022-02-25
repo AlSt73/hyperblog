@@ -9,3 +9,10 @@ body{
     background-color: lightblue;
     border: 1px solid black;
 }
+#test{
+    padding: 50px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 40%;
+    background-color: rgb(175, 159, 159);
+}
