@@ -14,5 +14,6 @@ body{
     border: 1px solid black;
     float: left;
     margin-left: 40%;
-    background-color: rgb(175, 159, 159);
+    background-color: rgb(167, 239, 241);
+    text-align: left;
 }
