@@ -8,12 +8,30 @@ body{
 #lista{
     background-color: lightblue;
     border: 1px solid black;
+    
 }
 #test{
     padding: 50px;
     border: 1px solid black;
-    float: left;
-    margin-left: 40%;
     background-color: rgb(167, 239, 241);
     text-align: left;
+}
+#cabecera{
+    background-color: rgb(148, 196, 212);
+    box-shadow: 0 3px 10px rgb(0 0 0 /0.3);
+    padding: 15px;
+    margin: 0;
+    text-align: left;
+    font-size: 30px;
+    font-style: italic;
+    text-shadow: 1px 1px 0 rgba(27, 26, 26, 0.212);
+
+}
+#contenedor{
+    width: 50%;
+    margin-left: 500px;
+}
+#contenedor tagline{
+    font-size: 18px;
+    color:rgb(167, 93, 236);
 }
