@@ -5,10 +5,9 @@ body{
     background-color: rgb(240, 205, 205);
     
 }
-#lista{
-    background-color: lightblue;
-    border: 1px solid black;
-    
+ul{
+    border: 1px dashed black;
+    list-style: square;
 }
 #test{
     padding: 50px;
