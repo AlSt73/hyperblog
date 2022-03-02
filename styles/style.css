@@ -34,3 +34,13 @@ ul{
     font-size: 18px;
     color:rgb(167, 93, 236);
 }
+
+#footer {
+    text-align: left;
+    margin-top: 10px;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: rgb(185, 175, 175);
+    box-shadow: 0 3px 10px rgb(0 0 0/0.3);
+
+}
