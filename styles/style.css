@@ -15,6 +15,11 @@ ul{
     background-color: rgb(167, 239, 241);
     text-align: left;
 }
+#middleContent{
+    border: 1px solid black;
+    margin: 10px 0 10px 0;
+    background-color: rgb(170, 168, 168);
+}
 #cabecera{
     background-color: rgb(148, 196, 212);
     box-shadow: 0 3px 10px rgb(0 0 0 /0.3);
@@ -25,6 +30,13 @@ ul{
     font-style: italic;
     text-shadow: 1px 1px 0 rgba(27, 26, 26, 0.212);
 
+}
+#cabecera img{
+    width: 40px;
+    vertical-align: middle;
+}
+#cabecera span{
+    font-size: 15px;
 }
 #contenedor{
     width: 50%;
